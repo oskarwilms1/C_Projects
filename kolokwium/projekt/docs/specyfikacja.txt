@@ -1,0 +1,3 @@
+To jest opis specyfikacji projektu.
+Jest on bardzo prosty.
+Polega na wykonaniu podstawowych komend w systemie linux.
